@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "iconfont";
+    src: url('iconfont.eot?t=1543155605682');
+    /* IE9*/
+    src: url('iconfont.eot?t=1543155605682#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAASUAAsAAAAABwQAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHU1VCAAABCAAAADMAAABCsP6z7U9TLzIAAAE8AAAARAAAAFY8nkgaY21hcAAAAYAAAABLAAABcOdQtiJnbHlmAAABzAAAAN8AAAEMoOrz3WhlYWQAAAKsAAAALQAAADYTX+UOaGhlYQAAAtwAAAAcAAAAJAfeA4NobXR4AAAC+AAAAAgAAAAICAAAAGxvY2EAAAMAAAAABgAAAAYAhgAAbWF4cAAAAwgAAAAgAAAAIAERAGVuYW1lAAADKAAAAUUAAAJtPlT+fXBvc3QAAARwAAAAIgAAADML6NXseJxjYGRgYOBikGPQYWB0cfMJYeBgYGGAAJAMY05meiJQDMoDyrGAaQ4gZoOIAgCKIwNPAHicY2BkYWCcwMDKwMHUyXSGgYGhH0IzvmYwYuRgYGBiYGVmwAoC0lxTGByeaTzTYG7438AQw9zA0AAUZgTJAQDjZQwzeJxjYGBgZWBgYAZiHSBmYWBgDGFgZAABP6AoI1icmYELLM7CoARWwwISf6bx/z+MBPJZwCQDIxvDKOABkzJQHjisIJiBEQCKugoJAHicZYwxTsMwGIX9YupEdiEN/InpQIMJTWQhLJSGSAVRNhi7IvZuvQF34BJsPQ1LFy7ALSzigQXe9N73v/ezERvEP6Jv1rEH9sTW7IUxOFTmQlCxMG2R4gix4Q5XCEgvWn0yw3Dpu7oxDrfNYB/RDzUqAowdur4tSMz/Ef6uKvJ1rFSML63FkutjXzt+mm0SKZONwP2omuIzFPzNZJxgP7WHy7E/KK1dWVumRCURrn9jns+Iorc0U6k6z3dyHuE1y+VEQvjnMxMMtLhrLne1XyNsVnaL8KOk7Z/8Ay/bJz8AeJxjYGRgYADiKbmp9vH8Nl8ZuFkYQOCGwoWpyDQLA9NzIMXBwATiAQALmQkHAAAAeJxjYGRgYG7438AQw8IAAkCSkQEVMAEARwgCawQAAAAEAAAAAAAAAACGAAAAAQAAAAIAWQAFAAAAAAACAAAACgAKAAAA/wAAAAAAAHicZY9NTsMwEIVf+gekEqqoYIfkBWIBKP0Rq25YVGr3XXTfpk6bKokjx63UA3AejsAJOALcgDvwSCebNpbH37x5Y08A3OAHHo7fLfeRPVwyO3INF7gXrlN/EG6QX4SbaONVuEX9TdjHM6bCbXRheYPXuGL2hHdhDx18CNdwjU/hOvUv4Qb5W7iJO/wKt9Dx6sI+5l5XuI1HL/bHVi+cXqnlQcWhySKTOb+CmV7vkoWt0uqca1vEJlODoF9JU51pW91T7NdD5yIVWZOqCas6SYzKrdnq0AUb5/JRrxeJHoQm5Vhj/rbGAo5xBYUlDowxQhhkiMro6DtVZvSvsUPCXntWPc3ndFsU1P9zhQEC9M9cU7qy0nk6T4E9XxtSdXQrbsuelDSRXs1JErJCXta2VELqATZlV44RelzRiT8oZ0j/AAlabsgAAAB4nGNgYoAALgbsgImRiZGZgTMzOT9PtyS1uISBAQAcAQO1AAA=') format('woff'), url('iconfont.ttf?t=1543155605682') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+    url('iconfont.svg?t=1543155605682#iconfont') format('svg');
+    /* iOS 4.1- */
+}
+
+.iconfont1 {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.first-12:hover i {
+    color: #ff6700;
+}
+
+.icon-icon-test {
+    color: #b0b0b0;
+}
+
+.icon-icon-test:before {
+    content: "\e628";
+    font-size: 20px;
+    vertical-align: middle;
+}
